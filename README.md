@@ -18,7 +18,7 @@ Hi 👋 I’m Nandini Sankarabukta, a Data Scientist and former Data Engineer pa
 
 With a Master’s in Management Analytics (McGill University) and 2+ years of industry experience, I specialize in building **data pipelines, machine learning models, and analytics dashboards** that empower organizations to make smarter decisions.  
 
-## 🛠 Tools & Skills  
+### 🛠 Tools & Skills  
 
 - **Programming & Scripting:** Python, SQL, Java, C, C#  
 - **Data Engineering & Databases:** PostgreSQL, MySQL, MongoDB, Azure SQL, ETL Pipelines, Azure IoT Hub, Azure Event Hubs  
@@ -27,7 +27,7 @@ With a Master’s in Management Analytics (McGill University) and 2+ years of in
 - **Cloud & DevOps:** Microsoft Azure, CI/CD Pipelines, Git, GitHub  
 - **Collaboration Tools:** Jira  
 
-## What I’m Looking For  
+### 🤔 What I’m Looking For  
 
 I’m open to opportunities as a **Data Scientist, ML/AI Engineer, or data-driven strategist** where I can:  
 - Build reliable data systems 🛠  
