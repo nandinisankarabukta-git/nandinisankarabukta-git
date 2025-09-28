@@ -12,16 +12,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there! I'm Nandini 👋
-- 🔍 Curious mind, data-driven heart, I use tech to explore and explain the world
-- 👀 Keen interest in analytics, machine learning, and AI to turn raw data into real-world impact
-- ⚙️ Previously a Data Engineer at Honeywell, working on IoT data pipelines and dashboards for industrial insights
-- 🎓 Hold a Master’s in Management Analytics and a Bachelor’s in Computer Science
-- 🔭 Open to opportunities as a Data Scientist, ML/AI Engineer, or data-driven role where I can bridge tech and strategy
-- 📫 Reach me at: nandini.sankarabukta@gmail.com
-- 😄 Fun fact: I love tackling puzzles 🧩, exploring new tools 🛠️, and geeking out over clean datasets 📊
+## Who’s Nandini and What’s She Solving With Data? 👩🏽‍💻
 
-### Connect with me: 
-<a href="https://www.linkedin.com/in/nandini-sankarabukta/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
+Hi 👋 I’m Nandini Sankarabukta, a Data Scientist and former Data Engineer passionate about turning **data into strategy, insight, and real-world impact**.  
+
+With a Master’s in Management Analytics (McGill University) and 2+ years of industry experience, I specialize in building **data pipelines, machine learning models, and analytics dashboards** that empower organizations to make smarter decisions.  
+
+---
+
+## 🛠 Tools & Skills  
+
+- **Programming & Scripting:** Python, SQL, Java, C, C#  
+- **Data Engineering & Databases:** PostgreSQL, MySQL, MongoDB, Azure SQL, ETL Pipelines, Azure IoT Hub, Azure Event Hubs  
+- **Data Analysis & Visualization:** pandas, NumPy, Matplotlib, Seaborn, Power BI, Grafana, Kibana  
+- **Machine Learning & AI:** scikit-learn, XGBoost, Random Forest, TensorFlow, PyTorch (RNNs, LSTMs, Transformers), Hugging Face, NLTK, spaCy  
+- **Cloud & DevOps:** Microsoft Azure, CI/CD Pipelines, Git, GitHub  
+- **Collaboration Tools:** Jira  
+
+---
+
+## 🌟 What I’m Looking For  
+
+I’m open to opportunities as a **Data Scientist, ML/AI Engineer, or data-driven strategist** where I can:  
+- Build reliable data systems 🛠  
+- Extract insights that influence decisions 📊  
+- Connect **data work with business strategy** to drive real-world impact ⚡  
+
+---
+
+📫 Reach me at: [nandini.sankarabukta@gmail.com](mailto:nandini.sankarabukta@gmail.com)  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/nandini-sankarabukta/)  
